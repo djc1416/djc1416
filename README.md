@@ -9,3 +9,10 @@ Passionate about Cybersecurity, Artificial Intelligence, and Software Developmen
 - Discord Security WAF bot
 - Note&Cross
 - RSA Learning Lab
+
+### Currently Learning
+- C++
+- Python Automation
+- Cybersecurity
+- AI
+  
