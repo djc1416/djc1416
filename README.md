@@ -6,9 +6,14 @@ I enjoy Learning through hands-on projects, open source collaboration and techni
 
 ## Projects
 
-- Mail Guardian AI
-- Discord Security WAF bot
-- Note&Cross
+### Mail Guardian AI
+AI-powered email assistant built with Python, focused on email analysis, phishing detection, summarization and writing assistance.
+
+### Discord Security WAF bot
+A Python-based Discord security bot designed to detect spam and suspicious links, with local user blocking and audit logging.
+
+### Note&Cross
+
 - RSA Learning Lab
 
 ### Currently Learning
