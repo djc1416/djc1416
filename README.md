@@ -1,9 +1,10 @@
 ## Hi I´m David 
 
 ### Aspiring Computer Science Engineer from Chile 
-Passionate about Cybersecurity, Artificial Intelligence, and Software Development 
+Interested in **Cybersecurity, Software Development, Artificial Intelligence, and Computer Science**.
+I enjoy Learning through hands-on projects, open source collaboration and technical courses.
 
-## Featured Projects
+## Projects
 
 - Mail Guardian AI
 - Discord Security WAF bot
