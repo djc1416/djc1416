@@ -13,8 +13,10 @@ AI-powered email assistant built with Python, focused on email analysis, phishin
 A Python-based Discord security bot designed to detect spam and suspicious links, with local user blocking and audit logging.
 
 ### Note&Cross
+A command-line task manager built in Python as my final project for Stanford Code in Place 2026.
 
-- RSA Learning Lab
+### RSA Learning Lab
+An educational RSA cryptography project built with Python, exploring encryption, decryption, modular arithmetic and number theory
 
 ### Currently Learning
 - C++
