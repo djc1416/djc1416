@@ -23,4 +23,15 @@ An educational RSA cryptography project built with Python, exploring encryption,
 - Python Automation
 - Cybersecurity
 - AI
+
+---
+
+## Technologies
+
+### Languages
+- Python
+- C++
+- JavaScript
+- HTML/CSS
+
   
