@@ -34,4 +34,10 @@ An educational RSA cryptography project built with Python, exploring encryption,
 - JavaScript
 - HTML/CSS
 
+### Areas
+- Cybersecurity
+- Cryptography
+- Software Development
+- Artifical Intelligence
+
   
