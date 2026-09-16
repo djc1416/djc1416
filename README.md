@@ -4,6 +4,7 @@
 Interested in **Cybersecurity, Software Development, Artificial Intelligence, and Computer Science**.
 I enjoy Learning through hands-on projects, open source collaboration and technical courses.
 
+---
 ## Projects
 
 ### Mail Guardian AI
@@ -17,12 +18,6 @@ A command-line task manager built in Python as my final project for Stanford Cod
 
 ### RSA Learning Lab
 An educational RSA cryptography project built with Python, exploring encryption, decryption, modular arithmetic and number theory
-
-### Currently Learning
-- C++
-- Python Automation
-- Cybersecurity
-- AI
 
 ---
 
@@ -40,4 +35,11 @@ An educational RSA cryptography project built with Python, exploring encryption,
 - Software Development
 - Artifical Intelligence
 
+---
+
+### Currently Learning
+- C++
+- Python Automation
+- Cybersecurity
+- AI
   
