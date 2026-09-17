@@ -46,5 +46,5 @@ An educational RSA cryptography project built with Python, exploring encryption,
 ---
 
 ## Connect With me
-- Linkedin
+- [LinkedIn](https://www.linkedin.com/in/david-jimenez-carvajal-1227aa417/)
   
