@@ -47,6 +47,9 @@ An educational RSA cryptography project built with Python, exploring encryption,
  
 ## Certifications & Courses
 
+- Stanford Code in Place
+- Google Cybersecurity
+- Google AI
 
 ---
 
