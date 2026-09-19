@@ -44,6 +44,11 @@ An educational RSA cryptography project built with Python, exploring encryption,
 - AI
 
 ---
+ 
+## Certifications & Courses
+
+
+---
 
 ## Connect With me
 
