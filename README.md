@@ -55,6 +55,6 @@ An educational RSA cryptography project built with Python, exploring encryption,
 
 ## Connect With me
 
-[![LinkedIn](https://flaticon.com)](https://www.linkedin.com/in/david-jimenez-carvajal-1227aa417/)
+[![LinkedIn](https://jsdelivr.net)](https://www.linkedin.com/in/david-jimenez-carvajal-1227aa417/)
 
   
