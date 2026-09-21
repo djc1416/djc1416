@@ -48,7 +48,7 @@ An educational RSA cryptography project built with Python, exploring encryption,
 ## Certifications & Courses
 
 - [Stanford Code in Place](https://codeinplace.stanford.edu/cip6/certificate/b7bvkb)
-- Google Cybersecurity
+- [Google Cybersecurity Professional Certificate](https://coursera.org/share/add2b172da2b3530301fc948497492ae)
 - Google AI
 
 ---
