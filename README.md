@@ -55,6 +55,6 @@ An educational RSA cryptography project built with Python, exploring encryption,
 
 ## Connect With me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-jimenez-carvajal-1227aa417/)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/david-jimenez-carvajal-1227aa417/)
 
   
