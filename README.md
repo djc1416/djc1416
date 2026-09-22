@@ -24,7 +24,7 @@ An educational RSA cryptography project built with Python, exploring encryption,
 ## Technologies
 
 ### Languages
-- Python
+- <img src="https://jsdelivr.net" width="20" height="20" alt="Python"> **Python**
 - C++
 - JavaScript
 - HTML/CSS
