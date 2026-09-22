@@ -24,7 +24,7 @@ An educational RSA cryptography project built with Python, exploring encryption,
 ## Technologies
 
 ### Languages
-- <img src="https://jsdelivr.net" width="20" height="20" alt="Python"> **Python**
+- ![Python](https://shields.io)
 - C++
 - JavaScript
 - HTML/CSS
