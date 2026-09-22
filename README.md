@@ -24,7 +24,7 @@ An educational RSA cryptography project built with Python, exploring encryption,
 ## Technologies
 
 ### Languages
-- ![Python](https://shields.io)
+- Python
 - C++
 - JavaScript
 - HTML/CSS
