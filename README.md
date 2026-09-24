@@ -33,7 +33,7 @@ An educational RSA cryptography project built with Python, exploring encryption,
 - Cybersecurity
 - Cryptography
 - Software Development
-- Artifical Intelligence
+- Artificial Intelligence
 
 ---
 
