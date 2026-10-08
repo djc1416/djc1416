@@ -12,10 +12,10 @@
 <br>
 
 <a href="https://github.com/djc1416">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=F78CA0&center=true&vCenter=true&width=900&lines=David+Jimenez+%E2%80%94+Aspiring+Computer+Science+Engineer;Cybersecurity+%7C+AI+%7C+Software+Development;Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Networking+%E2%80%A2+Linux;Learning+%E2%80%A2+Building+%E2%80%A2+Securing" alt="David Jimenez profile introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=David+Jimenez+%E2%80%94+Aspiring+Computer+Science+Engineer;Cybersecurity+%7C+AI+%7C+Software+Development;Python+%E2%80%A2+C%2B%2B+%E2%80%A2+Networking+%E2%80%A2+Linux;Learning+%E2%80%A2+Building+%E2%80%A2+Securing" alt="David Jimenez profile introduction">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=djc1416&style=flat&color=f78ca0&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=djc1416&style=flat&color=38BDF8&label=profile+views" alt="profile views">
 
 </div>
 
