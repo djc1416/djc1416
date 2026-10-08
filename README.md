@@ -30,70 +30,15 @@ I enjoy learning by building projects, experimenting with technologies, and unde
 
 ---
 
-## `$ cat tech-stack.yaml`
+## $ cat tech-stack.yaml
 
-<div align="center">
-
-<table border="1" cellpadding="14" bgcolor="#17171c">
-  <thead>
-    <tr>
-      <th colspan="2" align="left"><code>djc1416:~$ cat tech-stack.yaml</code></th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr>
-      <td width="50%" valign="top">
-        <code>├── cybersecurity:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=linux,bash" alt="Linux and Bash"><br>
-        <sub><code>Cybersecurity · Networking · Security</code></sub>
-      </td>
-
-      <td width="50%" valign="top">
-        <code>├── development:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=python,cpp,javascript" alt="Python, C++ and JavaScript"><br>
-        <sub><code>Python · C++ · JavaScript</code></sub>
-      </td>
-    </tr>
-
-    <tr>
-      <td valign="top">
-        <code>├── ai_automation:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=python" alt="Python"><br>
-        <sub><code>AI · Automation · Python</code></sub>
-      </td>
-
-      <td valign="top">
-        <code>├── tools:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"><br>
-        <sub><code>Git · GitHub · VS Code</code></sub>
-      </td>
-    </tr>
-
-    <tr>
-      <td valign="top">
-        <code>├── systems:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux"><br>
-        <sub><code>Linux · Systems · Networking</code></sub>
-      </td>
-
-      <td valign="top">
-        <code>└── current_focus:</code><br><br>
-        <sub><code>Cybersecurity · Software · AI</code></sub>
-      </td>
-    </tr>
-  </tbody>
-
-  <tfoot>
-    <tr>
-      <td colspan="2">
-        <code>status: learning · environment: local</code>
-      </td>
-    </tr>
-  </tfoot>
-</table>
-
-</div>
+| Area | Technologies |
+|---|---|
+| Programming | Python · C++ · JavaScript |
+| AI & Automation | Python · AI · Automation |
+| Tools | Git · GitHub · VS Code |
+| Systems | Linux · Networking |
+| Current Focus | Cybersecurity · Software · AI |>
 
 ---
 
