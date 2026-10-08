@@ -1,30 +1,30 @@
 {
-  "title": "DevOps Skill Radar",
-  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "title": "DJC1416 Skill Radar",
+  "_comment": "Self-rated, 0-100.",
   "axes": [
     {
-      "label": "CI/CD & Pipelines",
-      "value": 90
+      "label": "Cybersecurity",
+      "value": 60
     },
     {
-      "label": "Cloud (AWS/Azure)",
-      "value": 85
+      "label": "Python",
+      "value": 70
     },
     {
-      "label": "Kubernetes & Docker",
-      "value": 88
+      "label": "Software Development",
+      "value": 65
     },
     {
-      "label": "IaC (Terraform)",
-      "value": 85
+      "label": "Networking",
+      "value": 50
     },
     {
-      "label": "Observability",
-      "value": 80
+      "label": "AI & Automation",
+      "value": 55
     },
     {
-      "label": "SRE & Reliability",
-      "value": 75
+      "label": "C++ / Programming",
+      "value": 45
     }
   ]
 }
